@@ -273,20 +273,8 @@ a:focus {
     -o-background-size: cover;
 }
 
-#andihuang {
-    background: url(http://placehold.it/500x500) no-repeat center center scroll;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
-}
-
-#minervayang {
-    background: url(http://placehold.it/500x500) no-repeat center center scroll;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+.members div div.profile-pic {
+    
 }
 
 #map {
