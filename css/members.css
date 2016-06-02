@@ -183,6 +183,10 @@ a:focus {
     }
 }
 
+.members div div .profile-pic {
+    width: 100%;
+}
+
 .btn-circle {
     width: 70px;
     height: 70px;
