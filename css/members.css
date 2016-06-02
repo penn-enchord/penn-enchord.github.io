@@ -168,6 +168,10 @@ a:focus {
     font-size: 18px;
 }
 
+.member-item {
+    margin-bottom: 20px;
+}
+
 .profile-pic {
     margin-bottom: 30px;
 }
