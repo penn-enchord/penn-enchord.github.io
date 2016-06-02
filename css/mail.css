@@ -311,7 +311,7 @@ a:focus {
     line-height: 200%;
 }
 .bizmail_loginpanel .bizmail_SubmitArea {
-    margin-top: 15px;
+    padding-top: 15px;
     clear: both;
 }
 .bizmail_loginpanel .bizmail_SubmitArea a {
