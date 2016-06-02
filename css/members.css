@@ -168,6 +168,10 @@ a:focus {
     font-size: 18px;
 }
 
+.part-item {
+    margin-bottom: 20px;
+}
+
 .member-item {
     margin-bottom: 20px;
 }
