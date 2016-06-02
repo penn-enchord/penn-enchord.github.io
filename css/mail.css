@@ -265,6 +265,7 @@ a:focus {
     font-size: 12px;
     width: 300px;
     height: auto;
+    margin: 0 auto;
     border: 1px solid #cccccc;
     background: #ffffff;
 }
